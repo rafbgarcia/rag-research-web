@@ -22,7 +22,7 @@ export default function Home() {
             Next 15 app router).
           </p>
           <p className="text-sm mb-2">
-            The backend doesn't stream responses yet. Messages may take ~30
+            The backend {"doesn't"} stream responses yet. Messages may take ~30
             seconds.
           </p>
 
