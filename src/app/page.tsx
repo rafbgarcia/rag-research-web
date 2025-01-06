@@ -21,12 +21,10 @@ export default function Home() {
             Include the NextJS version and router in your message (defaults to
             Next 15 app router).
           </p>
-          <p className="text-sm mb-2">
-            The backend {"doesn't"} stream responses yet. Messages may take ~30
-            seconds.
+          <p className="text-sm mb-2 mt-6 italic">
+            Responses do not stream and may take around 30s due to cold-start.
           </p>
-
-          <p className="mt-10 text-sm">
+          <p className="mt-6 text-sm">
             Please feel free to get in touch, provide feedback, etc.
             <br />
             <br />
